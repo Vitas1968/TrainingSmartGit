@@ -8,6 +8,7 @@ public class Main
 
     }
 
+    public void methodInMaster(){}
     protected void methodInBranchFeature(){}
 
     protected void method2InBranchFeature(){}
