@@ -9,4 +9,6 @@ public class Main
     }
 
     protected void methodInBranchFeature(){}
+
+    protected void method2InBranchFeature(){}
 }
