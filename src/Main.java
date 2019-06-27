@@ -7,4 +7,6 @@ public class Main
         System.out.println("Hello every body!");
 
     }
+
+    public void methodInMaster(){}
 }
